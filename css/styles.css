@@ -100,3 +100,9 @@ footer {
     background-color: #666666;
     box-shadow: 0 0 16px #666666;
   }
+
+  .tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+  }
